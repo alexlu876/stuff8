@@ -1,0 +1,186 @@
+[submodule "4/Dyrland-WeaverJ"]
+	path = 4/Dyrland-WeaverJ
+	url = https://github.com/jonalf/pd4-demo.git
+[submodule "4/WengC"]
+	path = 4/WengC
+	url = https://github.com/Char-Les/SytemsEuler.git
+[submodule "4/SharapovJ"]
+	path = 4/SharapovJ
+	url = https://github.com/jeremysharapov/Euler.git
+[submodule "5/Dyrland-WeaverJ"]
+	path = 5/Dyrland-WeaverJ
+	url = https://github.com/jonalf/pd5-demo.git
+[submodule "4/ShiX"]
+	path = 4/ShiX
+	url = https://github.com/xshi0603/9-15-systems.git
+[submodule "4/ElsharawyM"]
+	path = 4/ElsharawyM
+	url = https://github.com/Razorflame3912/oilers.git
+[submodule "4/YeH"]
+	path = 4/YeH
+	url = https://github.com/yhelen/systems-02
+[submodule "5/WongM"]
+	path = 5/WongM
+	url = https://github.com/matteowong/systems_euler.git
+[submodule "5/LuoJ"]
+	path = 5/LuoJ
+	url = https://github.com/luojeff/systems5-euler.git
+[submodule "4/ZhengH"]
+	path = 4/ZhengH
+	url = https://github.com/henryz2000/SystemsEuler.git
+[submodule "4/WuP"]
+	path = 4/WuP
+	url = https://github.com/Solanace/systems_euler.git
+[submodule "5/LinJ"]
+	path = 5/LinJ
+	url = https://github.com/AnAverageHuman/systems02.git
+[submodule "4/WongJ"]
+	path = 4/WongJ
+	url = https://github.com/JonW27/euler.git
+[submodule "DasA"]
+	path = DasA
+	url = https://github.com/ashneeldas2/Euler.git
+[submodule "5/DasA"]
+	path = 5/DasA
+	url = https://github.com/ashneeldas2/Euler.git
+[submodule "4/ParabS"]
+	path = 4/ParabS
+	url = https://github.com/sonalparab/euler.git
+[submodule "4/HongW"]
+	path = 4/HongW
+	url = https://github.com/hongwilliam/Systems-Work-02.git
+[submodule "4/studious-euler"]
+	path = 4/FreudenbergJ
+	url = https://github.com/JFreud/studious-euler.git
+[submodule "5/ShifrinaD"]
+	path = 5/ShifrinaD
+	url = https://github.com/dariashifrina/blackmamba.git
+[submodule "5/GuanT"]
+	path = 5/GuanT
+	url = https://github.com/TerryMinal/SystemEuler.git
+[submodule "10/SenK"]
+	path = 10/SenK
+	url = https://github.com/kkysen/Euler.git
+[submodule "5/ShenoyA"]
+	path = 5/ShenoyA
+	url = https://github.com/Anish2454/systems_euler_01.git
+[submodule "4/ChenK"]
+	path = 4/ChenK
+	url = https://github.com/kchen29/p_euler.git
+[submodule "5/RoktimA"]
+	path = 5/RoktimA
+	url = https://github.com/ArifRoktim/EulerWork.git
+[submodule "5/LeeM"]
+	path = 5/LeeM
+	url = https://github.com/michaelleestuy/euler.git
+[submodule "4/ZhangJ"]
+	path = 4/ZhangJ
+	url = https://github.com/jennifer4569/Systems_Work02.git
+[submodule "4/ChenE"]
+	path = 4/ChenE
+	url = https://github.com/echen8/pd4sys-echen8.git
+[submodule "4/KowalskiJ"]
+	path = 4/KowalskiJ
+	url = https://github.com/Gingernetics/rm-me-euler.git
+[submodule "5/LiuJ"]
+	path = 5/LiuJ
+	url = https://github.com/judyliu2/hw2.git
+[submodule "4/LinH"]
+	path = 4/LinH
+	url = https://github.com/HermanLin/LinH.git
+[submodule "10/WengJ"]
+	path = 10/WengJ
+	url = https://github.com/DevJW2/Euler-C.git
+[submodule "4/KoJ"]
+	path = 4/KoJ
+	url = https://github.com/jamesqo/systems-hw.git
+[submodule "5/ShevchenkoA"]
+	path = 5/ShevchenkoA
+	url = https://github.com/Shev99/NerdySystemsStuff.git
+[submodule "4/RafiS"]
+	path = 4/RafiS
+	url = https://github.com/srafi1/peuler-c
+[submodule "5/BorisovN"]
+	path = 5/BorisovN
+	url = https://github.com/nikitaBor/NikitaSystemsWork02.git
+[submodule "4/XuJ"]
+	path = 4/XuJ
+	url = https://github.com/jacqxu00/SystemsEuler
+[submodule "XiangQ"]
+	path = XiangQ
+	url = https://github.com/queeniexiang/SystemsWork2_Euler.git
+[submodule "5/XiangQ"]
+	path = 5/XiangQ
+	url = https://github.com/queeniexiang/SystemsWork2_Euler.git
+[submodule "4/hw2"]
+	path = 4/hw2
+	url = https://github.com/yedohkang913/hw2.git
+[submodule "4/KangY"]
+	path = 4/KangY
+	url = https://github.com/yedohkang913/hw2.git
+[submodule "5/CheungJ"]
+	path = 5/CheungJ
+	url = https://github.com/JasperCheung/work-02---euler.git
+[submodule "4/WangI"]
+	path = 4/WangI
+	url = git@github.com:iwang2/Systems1.git
+[submodule "10/NewmanG"]
+	path = 10/NewmanG
+	url = http://github.com/gnewman00/euler.git
+[submodule "10/AbbasA"]
+	path = 10/AbbasA
+	url = https://github.com/Watabaws/HW01_EulerProblems.git
+[submodule "5/ChenR"]
+	path = 5/ChenR
+	url = https://github.com/rChen10/Euler.git
+[submodule "4/LeiC"]
+	path = 4/LeiC
+	url = https://github.com/clei1/systems-euler.git
+[submodule "5/sys_work02"]
+	path = 5/sys_work02
+	url = https://github.com/mcheng3/sys_work02.git
+[submodule "5/ChengM"]
+	path = 5/ChengM
+	url = https://github.com/mcheng3/sys_work02.git
+[submodule "4/GillG"]
+	path = 4/GillG
+	url = https://github.com/Gillgamesh/euler
+[submodule "5/ZhangE"]
+	path = 5/ZhangE
+	url = https://github.com/erichzg/20170918Systems.git
+[submodule "5/KapparovaA"]
+	path = 5/KapparovaA
+	url = https://github.com/akapparova/SystemsEuler.git
+[submodule "5/PeerI"]
+	path = 5/PeerI
+	url = https://github.com/inbarp1/Systems-17.git
+[submodule "5/BichounaO"]
+	path = 5/BichounaO
+	url = https://github.com/obichouna/homework1.git
+[submodule "10/HW02_EulerProbs"]
+	path = 10/MilewskiP
+	url = git@github.com:piotrmilewski/HW02_EulerProbs.git
+[submodule "4/BhattA"]
+	path = 4/BhattA
+	url = https://github.com/abhatt349/project-euler.git
+[submodule "4/RadosavF"]
+	path = 4/RadosavF
+	url = https://github.com/fabbbbbiola/euler-hw1.git
+[submodule "4/GoldmanJ"]
+	path = 4/GoldmanJ
+	url = https://github.com/jakegoldman/systems-work02.git
+[submodule "5/KeY"]
+	path = 5/KeY
+	url = https://github.com/yiduoke/02Sys.git
+[submodule "4/LiuH"]
+	path = 4/LiuH
+	url = https://github.com/hliu3/euler.git
+[submodule "4/TurcottiJ"]
+	path = 4/TurcottiJ
+	url = https://github.com/JTurcotti/EulerC.git
+[submodule "5/MuC"]
+	path = 5/MuC
+	url = https://github.com/roger778876/SystemsLevelProgramming17.git
+[submodule "4/LuA"]
+	path = 4/LuA
+	url = https://github.com/alexlu876/stuff1.git
